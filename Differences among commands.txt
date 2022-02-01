@@ -1,0 +1,12 @@
+Pull requests: let you tell others about changes you've pushed to a branch in a repository on GitHub.
+
+git-revert: is about making a new commit that reverts the changes made by other commits.
+
+git-restore: is about restoring files in the working tree from either the index or another commit.
+             This command does not update your branch. 
+             The command can also be used to restore files in the index from another commit.
+
+git-reset: is about updating your branch, moving the tip in order to add or remove commits from the branch.
+           This operation changes the commit history.
+
+
